@@ -27,5 +27,25 @@ Incluye componentes reutilizables, manejo de estado, formularios controlados y f
 ---
 # Capturas de Pantalla
 
+INICIO
 ![Imagen de Inicio](https://github.com/luciano194/TRABAJO-PR-CTICO-N-6-React.js/blob/fa86ab44edc6bc469aa4845f51f32ee7feaa1ef8/screenshots/1%20-%20Imagen%20de%20Inicio.png)
+
+TARJETAS
+![TARJETA](https://github.com/luciano194/TRABAJO-PR-CTICO-N-6-React.js/blob/875f30ace3e7fcbc46764bf673ef82746cb83987/screenshots/2%20-%20Card%20estatica.png)
+
+CONTADOR
+![CONTADOR](https://github.com/luciano194/TRABAJO-PR-CTICO-N-6-React.js/blob/875f30ace3e7fcbc46764bf673ef82746cb83987/screenshots/3%20-%20Contador.png)
+
+FORMULARIO
+![FORMULARIO](https://github.com/luciano194/TRABAJO-PR-CTICO-N-6-React.js/blob/875f30ace3e7fcbc46764bf673ef82746cb83987/screenshots/4%20-%20Formulario.png)
+
+PRODUCTOS
+!![PRODUCTOS](https://github.com/luciano194/TRABAJO-PR-CTICO-N-6-React.js/blob/875f30ace3e7fcbc46764bf673ef82746cb83987/screenshots/5%20-%20Productos.png)
+
+To-Do App
+![To-Do App](https://github.com/luciano194/TRABAJO-PR-CTICO-N-6-React.js/blob/875f30ace3e7fcbc46764bf673ef82746cb83987/screenshots/6%20-%20To-do%20App.png)
+
+
+
+
 
