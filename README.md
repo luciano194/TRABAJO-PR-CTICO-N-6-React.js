@@ -1,16 +1,27 @@
-# React + Vite
+# 🚀 Trabajo Práctico N°6 - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación desarrollada con **React + Vite** como parte de la materia *Prácticas Profesionalizantes II*.
 
-Currently, two official plugins are available:
+Incluye componentes reutilizables, manejo de estado, formularios controlados y filtrado dinámico de datos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+# 🧩 Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Componentes reutilizables (Card, Header, Footer)
+- Contador interactivo con useState
+- Formulario controlado con validación básica
+- Lista de productos con filtros (categoría y stock)
+- To-Do App con CRUD de tareas
+- Navegación entre secciones mediante estado
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🛠️ Tecnologías utilizadas
+
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS
+
+---
