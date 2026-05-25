@@ -61,6 +61,12 @@ Este proyecto fue creado para practicar React con Vite, incluyendo:
 - Nombre: Luciano Posada
 - Proyecto: TP React N°6
 
+# 📬 Contacto 
+
+Email: posadaluciano49@gmail.com
+GitHub: https://github.com/luciano194
+
+
 
 
 
