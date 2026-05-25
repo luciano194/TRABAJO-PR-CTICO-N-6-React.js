@@ -24,6 +24,24 @@ Incluye componentes reutilizables, manejo de estado, formularios controlados y f
 - JavaScript (ES6+)
 - CSS
 
+## 📚 Conceptos aplicados
+
+- Componentes en React
+- Props
+- useState
+- Renderizado condicional
+- Listas y filtros
+- Formularios controlados
+
+- ## 🎯 Objetivo del proyecto
+
+Este proyecto fue creado para practicar React con Vite, incluyendo:
+- Componentes reutilizables
+- Estado con useState
+- Manejo de formularios
+- Filtrado de listas
+- Renderizado condicional
+
 ---
 # 📸 Capturas de Pantalla
 
@@ -45,16 +63,6 @@ PRODUCTOS
 To-Do App
 ![To-Do App](https://github.com/luciano194/TRABAJO-PR-CTICO-N-6-React.js/blob/875f30ace3e7fcbc46764bf673ef82746cb83987/screenshots/6%20-%20To-do%20App.png)
 
-
-
-## 🎯 Objetivo del proyecto
-
-Este proyecto fue creado para practicar React con Vite, incluyendo:
-- Componentes reutilizables
-- Estado con useState
-- Manejo de formularios
-- Filtrado de listas
-- Renderizado condicional
 
 ## 👨‍💻 Autor
 
