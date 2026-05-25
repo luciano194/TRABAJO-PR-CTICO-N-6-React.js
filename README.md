@@ -25,3 +25,7 @@ Incluye componentes reutilizables, manejo de estado, formularios controlados y f
 - CSS
 
 ---
+# Capturas de Pantalla
+
+![Imagen de Inicio](https://github.com/luciano194/TRABAJO-PR-CTICO-N-6-React.js/blob/fa86ab44edc6bc469aa4845f51f32ee7feaa1ef8/screenshots/1%20-%20Imagen%20de%20Inicio.png)
+
